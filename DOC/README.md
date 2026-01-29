@@ -6,4 +6,6 @@
 PY32F030K28U6 @48MHz Cortex m0
 score: 56.265 Iterations/Sec
 score per MHz: 1.172
+运行环境：
+KEIL uVision MDK ARM v5.38
 <img width="952" height="712" alt="result" src="https://github.com/user-attachments/assets/0df3beae-64ec-496f-bee8-c6fd989323c4" />
